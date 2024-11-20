@@ -1,6 +1,7 @@
 # fileloader
 
 大文件分片分片上传，前端逻辑包含文件分片、hash计算、并发请求、合并请求、分片失败处理等。
+[nodejs后端](https://github.com/yangzhen5/fileloader-backen/tree/main)
 
 ## Recommended IDE Setup
 
