@@ -1,6 +1,6 @@
 # fileloader
 
-This template should help get you started developing with Vue 3 in Vite.
+大文件分片分片上传，前端逻辑包含文件分片、hash计算、并发请求、合并请求、分片失败处理等。
 
 ## Recommended IDE Setup
 
